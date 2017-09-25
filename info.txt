@@ -12,3 +12,5 @@ Squash And Merge commit #1
 Squash and Merge commit #2
 Squash and Merge commit #3
 Squash and Merge commit #4
+
+After Squash And Merge, and merge master.  commit #5
