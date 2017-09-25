@@ -9,3 +9,4 @@ just make any change
 and here is another change.
 
 Squash And Merge commit #1
+Squash and Merge commit #2
