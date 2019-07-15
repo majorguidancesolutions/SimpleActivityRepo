@@ -11,7 +11,7 @@ and here is another change.
 Squash And Merge commit #1 - again
 Squash and Merge commit #2 - again
 Squash and Merge commit #3 - again
-Squash and Merge commit #4
+Squash and Merge commit #4 - again
 
 After Squash And Merge, and merge master.  commit #5
 
