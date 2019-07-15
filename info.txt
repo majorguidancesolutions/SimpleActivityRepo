@@ -10,7 +10,7 @@ and here is another change.
 
 Squash And Merge commit #1 - again
 Squash and Merge commit #2 - again
-Squash and Merge commit #3
+Squash and Merge commit #3 - again
 Squash and Merge commit #4
 
 After Squash And Merge, and merge master.  commit #5
